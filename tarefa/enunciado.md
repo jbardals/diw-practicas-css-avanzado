@@ -58,12 +58,15 @@ tendo en conta que:
 
 ![Exemplo](../imgs/exemplo_aptdo3.png)
 
-## Ej4. UNIDADES DE MEDIDA (**1 pts**)
+## Ej4. ANIMACIONES Y TRANSICIONES (**3 pts**)
 
-A folla de estilo styles.css da carpeta [ej4](../recursos/ej4) establece unha marxe de 1 em para os parágrafos do documento html anexo.
+Dados el siguiente código HTML y CSS base, aplicar las animaciones y transformaciones necesarias para conseguir el siguiente efecto:   
+URL VIDEO
+- Al cargarse la página, únicamente se mostrarán los recuadros con las imágenes, ocultando el título, texto, enlace a "Leer más" y el fondo naranja.
+- Al pasar con el ratón sobre la imagen, debe ocurrir lo siguiente:
+  - La imagen de fondo aumentará su tamaño, dando la impresión de que se acerca. 
+  - Se mostrará el fondo naranja, de manera progresiva. 
+  - El título aparecerá por la parte superior de la imagen, hasta colocarse en su lugar. 
+  - El párrafo aparecerá por la parte inferior de la imagen, hasta colocarse en su lugar. 
+  - Se mostrará el enlace "Leer más", de manera progresiva. 
 
-1. Añade a declaración "font-size: 16px" á regla de estilo dos elementos p. Que sucede? Cal é es a anchura do marxen?
-
-2. Modifica o atributo font-size a 32px. Cal é agora a anchura do marxen?
-
-3. Modifica a regla para reducir a anchura do marxen a 16px pero mantendo o tamaño de letra dos párrafos en 32px. Que sucede?
