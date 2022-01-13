@@ -1,0 +1,16 @@
+.click:after {
+    content:"En pantalla grande";
+}
+@media screen and (max-width: 1024px) {
+    .click:after {
+        content:"Tablet";
+    }
+}
+@media screen and (max-width: 480px) {
+    .click:after {
+        content:"Movil";
+    }
+}
+/*-- content: Esta propiedad tiene la capacidad de generar contenido en forma dinámica 
+Al cambiar el tamaño de la pantalla va cambiando el texto
+*/

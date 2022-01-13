@@ -1,0 +1,5 @@
+div:nth-child(1){ background: radial-gradient(ellipse, rgba(176,174,238,1) 0%, rgba(29,30,31,1));}
+div:nth-child(2){ background: radial-gradient(circle,red,brown,orange,yellow,blue);}
+div:nth-child(3){ background:radial-gradient(circle,red 300px,brown 400px,orange 700px);}
+div:nth-child(4){ background: radial-gradient(#000, #ccc);}
+div{padding:40px;}
