@@ -1,0 +1,38 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<html lang="es"><head>
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+        <title>Ejercicio 5 - Transiciones CSS</title>
+        <style type="text/css" media="screen">
+	h1 {
+	position:relative;
+    animation-duration: 3s;
+    animation-name: slidein;
+	 animation-iteration-count: infinite;
+	 animation-direction: alternate;
+}
+
+@keyframes slidein {
+    from {
+        left: 100%;
+        width: 300%
+    }
+
+/*75% {
+    font-size: 300%;
+    left: 25%;
+    width: 150%;
+}*/
+
+    to {
+        left: 0%;
+        width: 100%;
+    }
+}
+	
+        </style>
+    </head>
+    <body>
+       
+	<h1>se va a deslizar</h1>
+
+</body></html>
