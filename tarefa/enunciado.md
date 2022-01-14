@@ -15,25 +15,23 @@ para que el texto se desplace en un tiempo de 3 segundos desde el borde derecho 
 ## Ej2. TRANSICIONES (**3 pts**)
 
 Dado el  código HTML y CSS del fichero ej02_Transic, crear las transiciones necesarias para pasar del estado inicial al final, aplicando las siguientes transformaciones:
-
+URL VIDEO
 1. Al poner el cursor del mouse en la ventana del navegador
-   ..* Desplazar las cajas a la derecha del contenedor
-   ⋅⋅* Desplazar las cajas a la derecha del contenedor
+   - Desplazar las cajas a la derecha del contenedor
 2. Al poner el cursor del mouse en una de las cajas:
-   ⋅⋅* Cambiar el tamaño de las cajas de 100px a 50px. 
-   ⋅⋅* Cambiar el color de fondo de azul a rojo. 
-   ⋅⋅* Cambiar el color del texto de negro a amarillo. 
-   ⋅⋅* Cambiar el tamaño de letra de 20px a 18px. 
-   ⋅⋅* Rotar los elementos 270º. 
+   - Cambiar el tamaño de las cajas de 100px a 50px. 
+   - Cambiar el color de fondo de azul a rojo. 
+   - Cambiar el color del texto de negro a amarillo. 
+   - Cambiar el tamaño de letra de 20px a 18px. 
+   - Rotar los elementos 270º. 
 3. Intercambiar las posiciones de las cajas 1 y 2,
-   ⋅⋅* Al poner el cursor del mouse sobre caja1 ésta ocupará la posición de caja 2, y viceversa.
+   - Al poner el cursor del mouse sobre caja1 ésta ocupará la posición de caja 2, y viceversa.
 
 Utilizar en cada caso, una duración y función de tiempo diferentes.
 
-A entrega desta tarefa farase mediante **2 ficheiros, un HTML e outro CSS**.
 
 
-## Ej3. MEDIA QUERIES (**4 pts**)
+## Ej3. MEDIA QUERIES (**1 pt**)
 
 Dados el siguiente código HTML y CSS en el directorio *media queries*, aplicar los Media Query necesarios para obtener el comportamiento mostrado en las imágenes. 
 
@@ -49,23 +47,7 @@ Dados el siguiente código HTML y CSS en el directorio *media queries*, aplicar 
 
 ![img_480](../imgs/480.png)
 
-A partir do código HTML proporcionado no adxunto [formulario de alta](../recursos/form_alta.html)
 
-1) Aplicar as reglas CSS necesarias para que o formulario HTML5 teña o seguinte aspecto:
-
-![img_form_alta](../imgs/img_form_alta.png)
-
-tendo en conta que:
-- Os campos do formulario agruparanse por apartados: Nome e Apelidos, Enderezo, Correo electrónico, Teléfono
-- Crea unha nova sección chamada Outros Datos cos campos:
-  - Data de Nacemento co formato dd/mm/aaaa visible
-  - Idade: se fixará facendo uso dun campo tipo rango de 0 a 100 
-  - Campo de texto libre para comentarios de 4 filas de alto e 30 columnas de ancho
-
-2) Cando o usuario pase o rato sobre cada grupo de elementos do formulario (é dicir, sobre cada `<li>`) debe modificarse a súa cor de fondo (suxestión: amarelo claro # FF9).
-3) Cando o usuario está situado nunha caixa de texto, debe modificarse o seu bordo para resaltar o campo que está activo en cada momento (suxestión: cor amarela # E6B700) tal e como se ve na seguinte imaxe:
-
-![Exemplo](../imgs/exemplo_aptdo3.png)
 
 ## Ej4. ANIMACIONES Y TRANSICIONES (**3 pts**)
 
@@ -79,7 +61,7 @@ URL VIDEO
   - El párrafo aparecerá por la parte inferior de la imagen, hasta colocarse en su lugar. 
   - Se mostrará el enlace "Leer más", de manera progresiva. 
 
-## Ej5. FONDOS (**3 pts**)
+## Ej5. FONDOS MULTIPLES(**1 pt**)
 
 Dados el código HTML y CSS del directorio fondos, aplicar las reglas CSS necesarias para conseguir el siguiente aspecto:
 
