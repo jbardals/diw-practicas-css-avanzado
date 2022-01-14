@@ -2,7 +2,8 @@
 ## Ej1. ANIMACIONES (**2 pts**)
 
 1. En el fichero *1. Animation.html* aplicar los estilos necesarios al elemento:
-`<h1>se va a deslizar</h1>`
+```<h1>se va a deslizar</h1>
+```
 para que el texto se desplace en un tiempo de 3 segundos desde el borde derecho de 	la ventana del navegador hacia el borde izquierdo, y viceversa (empleando también 3 	segundos).  Este movimiento se repetirá de forma indefinida.
 
 2. Modifica el código anterior para que el texto deje de mostrarse en pantalla al alcanzar el borde izquierdo y vuelva a aparecer por el derecho (sólo habrá desplazamiento desde la derecha hacia la izquierda)
