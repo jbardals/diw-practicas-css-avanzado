@@ -15,20 +15,21 @@ para que el texto se desplace en un tiempo de 3 segundos desde el borde derecho 
 ## Ej2. TRANSICIONES (**3 pts**)
 
 Dado el  código HTML y CSS del fichero ej02_Transic, crear las transiciones necesarias para pasar del estado inicial al final, aplicando las siguientes transformaciones:
-URL VIDEO
-1. Al poner el cursor del mouse en la ventana del navegador
-   - Desplazar las cajas a la derecha del contenedor
-2. Al poner el cursor del mouse en una de las cajas:
+
+1. Al poner el cursor del mouse en una de las cajas:
    - Cambiar el tamaño de las cajas de 100px a 50px. 
    - Cambiar el color de fondo de azul a rojo. 
    - Cambiar el color del texto de negro a amarillo. 
    - Cambiar el tamaño de letra de 20px a 18px. 
    - Rotar los elementos 270º. 
-3. Intercambiar las posiciones de las cajas 1 y 2,
+2. Intercambiar las posiciones de las cajas 1 y 2,
    - Al poner el cursor del mouse sobre caja1 ésta ocupará la posición de caja 2, y viceversa.
 
 Utilizar en cada caso, una duración y función de tiempo diferentes.
 
+Comprueba que el resultado sea el :
+![Ejerc2](../imgs/completa.png)
+[siguiente](https://drive.google.com/file/d/1RJIe9d_SWrZnhGoFxAweNls2jhnTWDXx/view?usp=sharing)
 
 
 ## Ej3. MEDIA QUERIES (**1 pt**)
@@ -52,7 +53,7 @@ Dados el siguiente código HTML y CSS en el directorio *media queries*, aplicar 
 ## Ej4. ANIMACIONES Y TRANSICIONES (**3 pts**)
 
 Dados el siguiente código HTML y CSS base, aplicar las animaciones y transformaciones necesarias para conseguir el siguiente efecto:   
-URL VIDEO
+
 - Al cargarse la página, únicamente se mostrarán los recuadros con las imágenes, ocultando el título, texto, enlace a "Leer más" y el fondo naranja.
 - Al pasar con el ratón sobre la imagen, debe ocurrir lo siguiente:
   - La imagen de fondo aumentará su tamaño, dando la impresión de que se acerca. 
@@ -60,6 +61,10 @@ URL VIDEO
   - El título aparecerá por la parte superior de la imagen, hasta colocarse en su lugar. 
   - El párrafo aparecerá por la parte inferior de la imagen, hasta colocarse en su lugar. 
   - Se mostrará el enlace "Leer más", de manera progresiva. 
+  
+Comprueba que el resultado sea el :
+![Ejerc4](../imgs/completa.png)
+[siguiente](https://drive.google.com/file/d/13j_ma6TLnBFAG3wDHtXFC7JAYxR1yfR9/view?usp=sharing)
 
 ## Ej5. FONDOS MULTIPLES(**1 pt**)
 
