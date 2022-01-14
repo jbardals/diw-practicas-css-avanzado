@@ -3,8 +3,8 @@
 
 ## Alcance de la tarea
 
-* Distinguir y utilizar correctamente **transiciones* y *animaciones* para darle dinamismo a los contenidos de las páginas web 
-* Utilizar *media queries* para generar estilos adaptados a pantallas de diferentes dimensiones
+* Distinguir y utilizar correctamente **transiciones** y **animaciones** para darle dinamismo a los contenidos de las páginas web 
+* Utilizar **media queries** para generar estilos adaptados a pantallas de diferentes dimensiones
 * Utilizar algunas propiedades avanzadas de **background** (fondos)
   
 
@@ -75,7 +75,7 @@ Puedes:
 git push origin <rb-usuario>
 ```
 
-ó bien crear sucesivas versiones de tu código.
+ó bien
 
 ### Etiquetar tu versión
 
