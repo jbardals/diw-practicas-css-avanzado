@@ -1,44 +1,53 @@
 ﻿
-## Ej1. Práctica de selectores CSS  (**2 pts**)
+## Ej1. ANIMACIONES (**2 pts**)
 
-Crea un documento ****HTML**** cunha páxina web en ****HTML5**** que reproduza en contido e aspecto o que se mostra na seguinte imaxe, empregando unha folla de estilos ****CSS externa****. 
+1. En el fichero *1. Animation.html* aplicar los estilos necesarios al elemento:
+`<h1>se va a deslizar</h1>`
+para que el texto se desplace en un tiempo de 3 segundos desde el borde derecho de 	la ventana del navegador hacia el borde izquierdo, y viceversa (empleando también 3 	segundos).  Este movimiento se repetirá de forma indefinida.
 
-![Captura_do_horario](../imgs/img_task_selectors.png)
+2. Modifica el código anterior para que el texto deje de mostrarse en pantalla al alcanzar el borde izquierdo y vuelva a aparecer por el derecho (sólo habrá desplazamiento desde la derecha hacia la izquierda)
 
-O texto está dispoñible sen formato no [ficheiro adxunto](../recursos/Texto_tarefa_selectors.txt)
+3. Modifica el código anterior para que el número de iteraciones del movimiento sea 4. Cuál es el estado final de la animación? Y cuál es el estado final si el número de iteraciones es 3?
 
-Emprega a seguinte regra de estilos para a táboa:
-`table, tr, th, td {border:1px solid #000; border-collapse:collapse; padding:5px;}`
+4. Modifica el código anterior para que al terminar la animación el texto se visualice a la derecha de la ventana del navegador
 
-Escolle as cores do xeito máis semellante entre os seguintes: 
 
-![paleta_cores](../imgs/paleta_cores.png)
+## Ej2. TRANSICIONES (**3 pts**)
 
-Entrega o ficheiro HTML e mais o ficheiro CSS
+Dado el  código HTML y CSS del fichero ej02_Transic, crear las transiciones necesarias para pasar del estado inicial al final, aplicando las siguientes transformaciones:
 
-## Ej2. MAQUETAR UN CURRICULUM  (**3 pts**)
+1. Al poner el cursor del mouse en la ventana del navegador
+   ..* Desplazar las cajas a la derecha del contenedor
+   ⋅⋅* Desplazar las cajas a la derecha del contenedor
+2. Al poner el cursor del mouse en una de las cajas:
+   ⋅⋅* Cambiar el tamaño de las cajas de 100px a 50px. 
+   ⋅⋅* Cambiar el color de fondo de azul a rojo. 
+   ⋅⋅* Cambiar el color del texto de negro a amarillo. 
+   ⋅⋅* Cambiar el tamaño de letra de 20px a 18px. 
+   ⋅⋅* Rotar los elementos 270º. 
+3. Intercambiar las posiciones de las cajas 1 y 2,
+   ⋅⋅* Al poner el cursor del mouse sobre caja1 ésta ocupará la posición de caja 2, y viceversa.
 
-Cree un documento HTML chamado **curriculum.html** cunha folla de estilo asociada almacenada nun ficheiro externo chamado **curriculum.css**.
-O navegador debería mostrar un resultado igual ao que se mostra na captura de pantalla contida na imaxe
-![curriculum_con_css](../imgs/curriculum_con_css.png)
-Estas son as reglas de estilo que tes que aplicar:
-1. A tipografía será da familia xenérica sans serif.
-2. A cor de fondo da páxina será #EEEEEE
-3. O resto das cores a utilizar son as seguintes:
-   * Título principal: #333333 (cor de texto)
-   * Títulos de seccións: #7FFF00 (cor de texto) e #888888 (cor de fondo)
-   * Cor de fondo de contenido de seccióons: #CCCCCC
-   * Cor de texto de tipos de datos personais (nome, DNI, dirección) e idiomas (inglés, francés): #20B2AA
-   * Cor de texto de datas de formación académica: #A52A2A
-   * Cor de fondo do elemento que contén o texto co nome do autor e a data da última modificación: branco
-
-NOTA 1: Como axuda para estruturar o documento mediante HTML, adxuntase unha captura de pantalla da mesma páxina sen aplicar ningún estilo (só os aplicados por defecto polo navegador). Esta captura está contida na imaxe ![curriculum_sin_css](../imgs/curriculum_sin_css.png)
-NOTA 2: Achégase no arquivo [curriculum_sin_marcar](../recursos/curriculum_sin_marcar.html) o texto da páxina (sen marcar).
+Utilizar en cada caso, una duración y función de tiempo diferentes.
 
 A entrega desta tarefa farase mediante **2 ficheiros, un HTML e outro CSS**.
 
 
-## Ej3. APLICAR ESTILOS A FORMULARIO HTML5 (**4 pts**)
+## Ej3. MEDIA QUERIES (**4 pts**)
+
+Dados el siguiente código HTML y CSS en el directorio *media queries*, aplicar los Media Query necesarios para obtener el comportamiento mostrado en las imágenes. 
+
+1) Aspecto de la web a pantalla completa:
+
+![img_pantalla_completa](../imgs/completa.png)
+
+2) Aspecto de la web en una pantalla de 960px:
+
+![img_960](../imgs/960.png)
+
+3) Aspecto de la web en una pantalla de 480px:
+
+![img_480](../imgs/480.png)
 
 A partir do código HTML proporcionado no adxunto [formulario de alta](../recursos/form_alta.html)
 
@@ -70,3 +79,8 @@ URL VIDEO
   - El párrafo aparecerá por la parte inferior de la imagen, hasta colocarse en su lugar. 
   - Se mostrará el enlace "Leer más", de manera progresiva. 
 
+## Ej5. FONDOS (**3 pts**)
+
+Dados el código HTML y CSS del directorio fondos, aplicar las reglas CSS necesarias para conseguir el siguiente aspecto:
+
+![fondos](../imgs/fondos.png)
