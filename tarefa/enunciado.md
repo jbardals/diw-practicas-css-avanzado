@@ -27,9 +27,7 @@ Dado el  código HTML y CSS del fichero ej02_Transic, crear las transiciones nec
 
 Utilizar en cada caso, una duración y función de tiempo diferentes.
 
-Comprueba que el resultado sea el :
-![Ejerc2](../imgs/completa.png)
-[siguiente](https://drive.google.com/file/d/1RJIe9d_SWrZnhGoFxAweNls2jhnTWDXx/view?usp=sharing)
+Comprueba que el resultado sea el [siguiente](https://drive.google.com/file/d/1RJIe9d_SWrZnhGoFxAweNls2jhnTWDXx/view?usp=sharing)
 
 
 ## Ej3. MEDIA QUERIES (**1 pt**)
@@ -62,9 +60,7 @@ Dados el siguiente código HTML y CSS base, aplicar las animaciones y transforma
   - El párrafo aparecerá por la parte inferior de la imagen, hasta colocarse en su lugar. 
   - Se mostrará el enlace "Leer más", de manera progresiva. 
   
-Comprueba que el resultado sea el :
-![Ejerc4](../imgs/completa.png)
-[siguiente](https://drive.google.com/file/d/13j_ma6TLnBFAG3wDHtXFC7JAYxR1yfR9/view?usp=sharing)
+Comprueba que el resultado sea el [siguiente](https://drive.google.com/file/d/13j_ma6TLnBFAG3wDHtXFC7JAYxR1yfR9/view?usp=sharing)
 
 ## Ej5. FONDOS MULTIPLES(**1 pt**)
 
