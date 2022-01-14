@@ -3,9 +3,9 @@
 
 ## Alcance de la tarea
 
-*  Conocer cómo podemos seleccionar elementos HTML concretos de páginas web para aplicarles reglas de estilos con css (**selectores, pseudoclases, pseudoelementos**)
-* Aplicar las **reglas de estilo css** correspondientes a elementos **contenedores** y a elementos con **contenidos** tipo texto, enlaces, imágenes, tablas, listas, formularios, etc
-* Aprender a ubicar los elementos HTML de las páginas web teniendo en cuenta el **Modelo de cajas** y los **tipos de posicionamiento** usando correctamente las propiedades correspondientes.
+* Distinguir y utilizar correctamente **transiciones* y *animaciones* para darle dinamismo a los contenidos de las páginas web 
+* Utilizar *media queries* para generar estilos adaptados a pantallas de diferentes dimensiones
+* Utilizar algunas propiedades avanzadas de **background** (fondos)
   
 
 ## Pasos previos
@@ -67,8 +67,17 @@ organizados de la siguiente manera:
 * Guarda las hojas de estilo en en una carpeta `css/`
 * Guarda los ficheros de javascript en en una carpeta `js/`
 
+Puedes:
 
-### Etiqueta tu versión
+### Subir todo el código de tu rama de trabajo
+
+```
+git push origin <rb-usuario>
+```
+
+ó bien crear sucesivas versiones de tu código.
+
+### Etiquetar tu versión
 
 Cuando tengas un revisión de tu código que consideres estable, etiquétala de la siguiente forma:
 
