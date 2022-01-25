@@ -54,8 +54,8 @@ Dados el siguiente código HTML y CSS en el directorio *media queries*, aplicar 
 
 Dados el siguiente código HTML y CSS base, aplicar las animaciones y transformaciones necesarias para conseguir el siguiente efecto:   
 
-- Al cargarse la página, únicamente se mostrarán los recuadros con las imágenes, ocultando el título, texto, enlace a "Leer más" y el fondo naranja.
-- Al pasar con el ratón sobre la imagen, debe ocurrir lo siguiente:
+- Al cargarse la página, inicialmente sólo se mostrarán los recuadros con las imágenes, ocultando el título, texto, enlace a "Leer más" y el fondo naranja.
+- A continuación: 
   - La imagen de fondo aumentará su tamaño, dando la impresión de que se acerca. 
   - Se mostrará el fondo naranja, de manera progresiva. 
   - El título aparecerá por la parte superior de la imagen, hasta colocarse en su lugar. 
